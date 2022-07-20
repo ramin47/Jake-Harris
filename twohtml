@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Inter&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="c.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+    </head>
+    
+    <body>
+        <div class="main-div">
+     <div class="left-div">
+      <img class='img' src='C:\Users\JAHANRAYANE\Desktop\test\1.jpg' alt="main pic" />
+     </div>
+
+
+
+     <div class="right-div">
+        <p class="paragrapgh">Perfume</p>
+        <h1 class="header">Gabrielle<br> Essence Eau<br> De Parfume</h1>
+        <p class="paragrapgh2">A floral, solar and voluptuous interoretation composed by<br> Oliver
+           Polge, Perfumer-Creator<br> for the house of CHANEL.
+        </p>
+        <div class="price-div">
+         <h1 class="price">$149.99</h1>
+         <del><p class="price-crossed">$169.99</p></del>
+        </div>
+       <button class="button"> <i class="fa fa-shopping-cart" aria-hidden="true"></i>Add to Cart</button>
+
+        
+     </div>
+    </body>
+</div>
+</html>
